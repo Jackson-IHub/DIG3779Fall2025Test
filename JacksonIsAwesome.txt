@@ -1,6 +1,18 @@
 Humble
 <<<<<<< HEAD
 fdafdsafdasf
+fdafdsafdasf
+Very cool
+fdafdsfda
+Hip
+fdafsfdsaa
+jflkdasj;sadf
+Very cool
+fdafdsfda
+Hip
+fdafsfdsaa
+jflkdasj;sadf
+fdafdsafdasf
 Very cool
 fdafdsfda
 Hip
@@ -13,6 +25,12 @@ dfasdfasdfs
 Amazing Sense of Fashon
 Very cool
 Smart
+fdafdsafdasf
+Very cool
+fdafdsfda
+Hip
+fdafsfdsaa
+jflkdasj;sadf
 Hip
 Very Interesting?
 Cool glasses
