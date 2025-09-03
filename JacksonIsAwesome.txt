@@ -1,4 +1,5 @@
 Humble
+<<<<<<< HEAD
 fdafdsafdasf
 Very cool
 fdafdsfda
@@ -9,3 +10,10 @@ Intelligent
 fdafdsfas
 Hilarious
 dfasdfasdfs
+Amazing Sense of Fashon
+Very cool
+Smart
+Hip
+Very Interesting?
+Cool glasses
+Sharp beard
